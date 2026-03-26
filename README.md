@@ -1,7 +1,9 @@
 > [!CAUTION]
 > **This project is archived and no longer maintained.**
 > Archived: 2026-03-26
-> Reason: Elastic ecosystem has evolved; Curator functionality now built into ILM# ansible-es-curator
+> Reason: Elastic ecosystem has evolved; Curator functionality now built into ILM
+
+# ansible-es-curator
 
 An Ansible role to install [Elasticsearch Curator](https://github.com/elastic/curator)
 
